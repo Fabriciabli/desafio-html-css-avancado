@@ -9,6 +9,7 @@ Projeto de estudo feito por Fabrícia Fernandes, com 💙
 - <a href="#layout">Layout</a>
 - <a href="#video">Vídeo Demonstrativo</a>
 - <a href="#rodar">Como rodar este projeto</a>
+- <a href="#resultado">Resultado</a>
 - <a href="#tecnologias">Tecnologias Utilizadas</a>
 - <a href="#autorais">Pessoas Autorais</a>
 - <a href="#passos">Próximos Passos</a>
@@ -25,12 +26,7 @@ Este é um desafio proposto pelo curso [DevQuest](https://devemdobro.com), no M�
 <div>
 
 ## 📌 Vídeo Demonstrativo
-<div align="center">
-   <video width="640" height="360" controls>
-      <source src="src/video/desafio-dev.mp4" type="video/mp4">
-      Seu navegador não suporta a tag de vídeo.
-   </video>
-</div>
+[!Huddle Landing Page](https://youtu.be/xlViGdEjKdY)
 
 ## 🔧 Como rodar este projeto
 🚀 Estrutura HTML
@@ -112,6 +108,8 @@ body{
     margin-bottom: 30px;
 }
 ``` 
+## 📌 Resultado
+Acesse o site pronto neste link: [aqui](https://fabriciabli.github.io/desafio-html-css-avancado/)
 
 ## ⚙️ Tecnologias Utilizadas
 1. [VS Code](https://code.visualstudio.com/)
