@@ -27,7 +27,10 @@ Este é um desafio proposto pelo curso [DevQuest](https://devemdobro.com), no M�
 
 ## 📌 Vídeo Demonstrativo
 [Huddle Landing Page](https://youtu.be/xlViGdEjKdY)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xlViGdEjKdY?si=hr1lfMAf2Pf1E2O_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+https://github.com/Fabriciabli/desafio-html-css-avancado/assets/116381909/8b91baf6-78ad-420b-9401-3a65b4556e61
+
+
 
 ## 🔧 Como rodar este projeto
 🚀 Estrutura HTML
